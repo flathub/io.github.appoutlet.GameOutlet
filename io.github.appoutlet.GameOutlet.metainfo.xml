@@ -13,7 +13,7 @@
     <p>The GameOutlet put together the latest deals in games for PC. It puts the deals for the most
       popular online game stores in one single place. It allows you to easily find the best deals
       and search for your favorite games</p>
-    <p>Features</p>
+    <p>Features:</p>
     <ul>
       <li>See the latest deals from the most popular game stores</li>
       <li>Search by a game title to see its prices on these stores</li>
@@ -24,43 +24,37 @@
   </description>
   <screenshots>
     <screenshot type="default">
-      <image type="source">
-        https://raw.githubusercontent.com/AppOutlet/GameOutlet/main/docs/screenshot/linux/1.png
-      </image>
+      <image type="source">https://raw.githubusercontent.com/AppOutlet/GameOutlet/main/docs/screenshot/linux/1.png</image>
+      <caption>Browse latest game deals</caption>
     </screenshot>
     <screenshot>
-      <image type="source">
-        https://raw.githubusercontent.com/AppOutlet/GameOutlet/main/docs/screenshot/linux/2.png
-      </image>
+      <image type="source">https://raw.githubusercontent.com/AppOutlet/GameOutlet/main/docs/screenshot/linux/2.png</image>
+      <caption>Search for games and compare prices</caption>
     </screenshot>
     <screenshot>
-      <image type="source">
-        https://raw.githubusercontent.com/AppOutlet/GameOutlet/main/docs/screenshot/linux/3.png
-      </image>
+      <image type="source">https://raw.githubusercontent.com/AppOutlet/GameOutlet/main/docs/screenshot/linux/3.png</image>
+      <caption>View your wishlist</caption>
     </screenshot>
     <screenshot>
-      <image type="source">
-        https://raw.githubusercontent.com/AppOutlet/GameOutlet/main/docs/screenshot/linux/4.png
-      </image>
+      <image type="source">https://raw.githubusercontent.com/AppOutlet/GameOutlet/main/docs/screenshot/linux/4.png</image>
+      <caption>Explore all store deals</caption>
     </screenshot>
     <screenshot>
-      <image type="source">
-        https://raw.githubusercontent.com/AppOutlet/GameOutlet/main/docs/screenshot/linux/5.png
-      </image>
+      <image type="source">https://raw.githubusercontent.com/AppOutlet/GameOutlet/main/docs/screenshot/linux/5.png</image>
+      <caption>Dark theme support</caption>
     </screenshot>
   </screenshots>
   <releases>
     <release version="v1.4.3" date="2024-08-07" type="stable">
       <description>
-        🎮 GameOutlet v1.4.3: Maintenance Release
-        Hello gamers! We've released a minor update focused on maintaining and improving the backend of GameOutlet. This release primarily consists of dependency updates to keep our app running smoothly and securely.
-        🔧 Dependency Updates:
-        Several libraries have been updated to their latest versions, including Detekt, Kover, Ktor client, Google Truth, Mockk, and FlatLaf.
-        🎉 What This Means for You
-        While you won't see any visible changes in the app, this maintenance update helps ensure GameOutlet continues to perform well and remain secure. We're committed to keeping the app's foundation strong for future feature developments.
-        🚀 Moving Forward
-        We appreciate your understanding as we focus on these necessary backend improvements. Stay tuned for future updates that will bring new features and enhancements to your gaming experience.
-        Thank you for your continued support of GameOutlet.
+        <p>GameOutlet v1.4.3: Maintenance Release</p>
+        <p>Hello gamers! We've released a minor update focused on maintaining and improving the backend of GameOutlet. This release primarily consists of dependency updates to keep our app running smoothly and securely.</p>
+        <p>Dependency Updates:</p>
+        <ul>
+          <li>Several libraries have been updated to their latest versions, including Detekt, Kover, Ktor client, Google Truth, Mockk, and FlatLaf</li>
+        </ul>
+        <p>While you won't see any visible changes in the app, this maintenance update helps ensure GameOutlet continues to perform well and remain secure. We're committed to keeping the app's foundation strong for future feature developments.</p>
+        <p>Thank you for your continued support of GameOutlet.</p>
       </description>
     </release>
   </releases>

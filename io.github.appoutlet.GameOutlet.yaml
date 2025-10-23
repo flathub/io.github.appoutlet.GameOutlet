@@ -1,6 +1,6 @@
 app-id: io.github.appoutlet.GameOutlet
 runtime: org.gnome.Platform
-runtime-version: '48'
+runtime-version: '45'
 sdk: org.gnome.Sdk
 command: GameOutlet
 sdk-extensions:

@@ -1,6 +1,6 @@
 app-id: io.github.appoutlet.GameOutlet
 runtime: org.gnome.Platform
-runtime-version: '48'
+runtime-version: '45'
 sdk: org.gnome.Sdk
 command: GameOutlet
 sdk-extensions:
@@ -31,8 +31,8 @@ modules:
     sources:
       - type: file
         dest-filename: GameOutlet.jar
-        url: https://github.com/AppOutlet/GameOutlet/releases/download/v1.4.4/GameOutlet-linux-x64-1.4.4-release.jar
-        sha256: b00e506ca4859606e5ba1ddc87099cf1af716d789bafc939612bd1b038474f76
+        url: https://github.com/AppOutlet/GameOutlet/releases/download/v1.4.3/GameOutlet-linux-x64-1.4.3-release.jar
+        sha256: 80fe2e00e5e0e947cd2123dc996beff9e6f9028ed9fccc9ef372119bb9a0ac84
       - type: file
         path: io.github.appoutlet.GameOutlet.metainfo.xml
       - type: file

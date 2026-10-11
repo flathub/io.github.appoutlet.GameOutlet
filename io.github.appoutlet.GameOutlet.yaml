@@ -1,10 +1,10 @@
 app-id: io.github.appoutlet.GameOutlet
 runtime: org.freedesktop.Platform
-runtime-version: '25.08'
+runtime-version: '26.08'
 sdk: org.freedesktop.Sdk
 command: GameOutlet
 sdk-extensions:
-  - org.freedesktop.Sdk.Extension.openjdk17
+  - org.freedesktop.Sdk.Extension.openjdk25
 finish-args:
   - --device=all
   - --socket=x11
@@ -17,7 +17,7 @@ modules:
   - name: openjdk
     buildsystem: simple
     build-commands:
-      - /usr/lib/sdk/openjdk17/install.sh
+      - /usr/lib/sdk/openjdk25/install.sh
 
   - name: GameOutlet
     buildsystem: simple
